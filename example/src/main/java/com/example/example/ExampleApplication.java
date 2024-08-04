@@ -1,3 +1,5 @@
+// ./mvnw spring-boot:run
+
 package com.example.example;
 
 import org.slf4j.Logger;
